@@ -14,7 +14,7 @@
 ## CRUD di Website
 | Operasi | Screenshot |
 |---------|------------|
-| **GET** | <img width="2879" height="1454" alt="image" src="https://github.com/user-attachments/assets/bb145b3d-fecb-4b0b-9f1e-dd1421ebde58" /> |
+| **GET** | <img width="2879" height="1454" alt="image" src="https://github.com/user-attachments/assets/1551b050-dbbd-4bee-af01-e64108b8a5ac" /> |
 | **POST** | <img width="2876" height="1470" alt="image" src="https://github.com/user-attachments/assets/aac2a96b-580c-4081-92c3-1be8d22565b1" /> |
 | **Before Update** | <img width="2876" height="1470" alt="image" src="https://github.com/user-attachments/assets/aac2a96b-580c-4081-92c3-1be8d22565b1" /> |
 | **UPDATE** | <img width="2878" height="1463" alt="image" src="https://github.com/user-attachments/assets/c345f238-a956-41ab-a6a6-f54565706e09" /> |
